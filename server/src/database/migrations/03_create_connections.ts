@@ -5,7 +5,7 @@ export async function up(knex: Knex) {
     table.increments('id').primary();
 
     table.integer('user_id')
-      .nullable()
+      .notNullable()
       .references('id')
       .inTable('users')
       .onDelete('CASCADE')
