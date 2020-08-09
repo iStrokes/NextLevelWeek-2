@@ -61,7 +61,7 @@ function StudyTabs() {
         tabBarLabel: 'Favoritos',
         tabBarIcon: ({ color, size, focused}) => {
           return (
-            <Ionicons name="ios-heart" size={size} color={focused ? '#8257E5' : color} />
+            <Ionicons name="ios-heart" size={20} color={focused ? '#8257E5' : color} />
           )
         }
       }}
