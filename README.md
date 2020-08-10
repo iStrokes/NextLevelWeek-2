@@ -14,6 +14,7 @@
   <li>React-native</li>
   <li>Typescript</li>
   <li>Expo</li>
+</ul>
 <p>Para o servidor/api foi utilizado</p> 
 <ul>
   <li>NodeJS</li>
