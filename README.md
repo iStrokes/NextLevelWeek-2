@@ -74,6 +74,6 @@
 <br>
 <p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
 <br>
-<p align="center">Por enquanto, é só!, sempre que tiver novas atualizações, este documento ira ser renovado!</p>
+<p align="center">Por enquanto é só!, sempre que tiver novas atualizações, este documento ira ser renovado!</p>
 
 
