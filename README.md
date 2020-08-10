@@ -16,6 +16,7 @@
   <li>Expo</strong>
 </ul>
 <p>Para o servidor foi utilizado <strong>NODE</strong> e o <strong>YARN</strong> como gerenciador de pacotes</p>
+<p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
 <h3 align="center">Se você quiser testar o app, deverá seguir as seguintes etapas</h3>
 <p>Primeiramente faça o clone do repósitorio com o seguinte comando em seu terminal:</p>
 <code align="center">git clone https://github.com/iStrokes/NWL2</code>
