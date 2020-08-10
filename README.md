@@ -69,11 +69,11 @@
 </p>
 <p>Página dos Proffys favoritos</p>
 <p align="center">
-  <img src="/imgs/favorites.jpeg">
+  <img src="/imgs/favorites.jpeg" width="450">
 </p>
 <br>
 <p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
 <br>
-<p>Por enquanto, é só!, sempre que tiver novas atualizações, este documento ira ser renovado!</p>
+<p align="center">Por enquanto, é só!, sempre que tiver novas atualizações, este documento ira ser renovado!</p>
 
 
