@@ -20,11 +20,14 @@
 <p>Primeiramente faça o clone do repósitorio com o seguinte comando em seu terminal:</p>
 <code align="center">git clone https://github.com/iStrokes/NWL2</code>
 <br>
+<br>
 <p>Após isso, abra o diretorio em seu terminal, para baixar todas as depêndencias, execute o comando:</p>
 <code align="center" >yarn install</code>
 <br>
+<br>
 <p>feito isso, agora você precisa abrir as pastas <strong>web, mobile e server</strong> no terminal e executar:</p>
 <code align="center">yarn start</code>
+<br>
 <br>
 <p>agora então, a versão web já vai estar funcionando, você pode acessa-la pelo endereço: <strong>http://localhost:3333.</strong></p>
 <p>Para executar a versão mobile, você vai precisar baixar em seu celular ou emulador um aplicativo chamado <strong>Expo</strong>, depois disso então, com a camera do seu celular scannear o código QR que ira aparecer na página da web quando você executar o comando de iniciar na pasta mobile, após scanneado, ira pedir pra você abrir com o expo, e então já vai estar funcionando.</p>
