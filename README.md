@@ -18,11 +18,14 @@
 <p>Para o servidor foi utilizado <strong>NODE</strong> e o <strong>YARN</strong> como gerenciador de pacotes</p>
 <h3 align="center">Se você quiser testar o app, deverá seguir as seguintes etapas</h3>
 <p>Primeiramente faça o clone do repósitorio com o seguinte comando em seu terminal:</p>
-<code>git clone https://github.com/iStrokes/NWL2</code>
+<code align="center">git clone https://github.com/iStrokes/NWL2</code>
+<br>
 <p>Após isso, abra o diretorio em seu terminal, para baixar todas as depêndencias, execute o comando:</p>
-<code>yarn install</code>
+<code align="center" >yarn install</code>
+<br>
 <p>feito isso, agora você precisa abrir as pastas <strong>web, mobile e server</strong> no terminal e executar:</p>
-<code>yarn start</code>
+<code align="center">yarn start</code>
+<br>
 <p>agora então, a versão web já vai estar funcionando, você pode acessa-la pelo endereço: <strong>http://localhost:3333.</strong></p>
 <p>Para executar a versão mobile, você vai precisar baixar em seu celular ou emulador um aplicativo chamado <strong>Expo</strong>, depois disso então, com a camera do seu celular scannear o código QR que ira aparecer na página da web quando você executar o comando de iniciar na pasta mobile, após scanneado, ira pedir pra você abrir com o expo, e então já vai estar funcionando.</p>
 <h3 align='center'>Confira algumas imagens do app</h3>
