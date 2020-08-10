@@ -15,7 +15,14 @@
   <li>Typescript
   <li>Expo</strong>
 </ul>
-<p>Para o servidor foi utilizado <strong>NODE</strong> e o <strong>YARN</strong> como gerenciador de pacotes</p>
+<p>Para o servidor/api foi utilizado</p> 
+<ul>
+  <li>NodeJS
+  <li>SQLite3
+  <li>Axios
+  <li>Knex
+</ul>
+<p> E como gerenciador de pacotes foi utilizado o <code>YARN</code>
 <p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
 <h3 align="center">Se você quiser testar o app, deverá seguir as seguintes etapas</h3>
 <p>Primeiramente faça o clone do repósitorio com o seguinte comando em seu terminal:</p>
