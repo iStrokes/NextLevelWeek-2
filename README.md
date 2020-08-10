@@ -32,7 +32,8 @@
 <br>
 <p>agora então, a versão web já vai estar funcionando, você pode acessa-la pelo endereço: <strong>http://localhost:3333.</strong></p>
 <p>Para executar a versão mobile, você vai precisar baixar em seu celular ou emulador um aplicativo chamado <strong>Expo</strong>, depois disso então, com a camera do seu celular scannear o código QR que ira aparecer na página da web quando você executar o comando de iniciar na pasta mobile, após scanneado, ira pedir pra você abrir com o expo, e então já vai estar funcionando.</p>
-<h3 align='center'>Confira algumas imagens do app</h3>
+<br>
+<h3 align='center'>Versão <strong>WEB</strong> :computer: </h3>
 <br>
 <p>Página inicial</p>
 <p align="center">
@@ -47,4 +48,21 @@
 <p align="center">
   <img src="imgs/list1.png"/>
   <img src="imgs/list2.png"/>
+</p>
+<br>
+<br>
+<h3 align="center">Versão <strong>MOBILE</strong> :iphone:</h3>
+<p>Página inicial</p>
+<p align="center">
+  <img src="/imgs/landingmobile.jpeg"/>
+</p>
+<p>Página de cadastro (em produção :construction:)</p>
+<p align="center">
+  <img src="/imgs/querserproffy.jpeg"/>
+</p>
+<p>Página de listagem de professores</p>
+<p align="center">
+  <img src="/imgs/listMobile1.jpeg"/>s
+  <img src="/imgs/listMobile2.jpeg"/>
+  <img src="/imgs/listMobile3.jpeg"/>
 </p>
