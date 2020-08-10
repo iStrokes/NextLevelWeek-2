@@ -54,17 +54,26 @@
 <h3 align="center">Versão <strong>MOBILE</strong> :iphone:</h3>
 <p>Página inicial</p>
 <p align="center">
-  <img src="/imgs/landingmobile.jpeg"width="500"/>
+  <img src="/imgs/landingmobile.jpeg"width="450"/>
 </p>
 <p>Página de cadastro (em produção :construction:)</p>
 <p align="center">
-  <img src="/imgs/querserproffy.jpeg"width="500"/>
+  <img src="/imgs/querserproffy.jpeg"width="450"/>
 </p>
 <p>Página de listagem de professores</p>
 <p align="center">
-  <img src="/imgs/listMobile1.jpeg" width="500"/>
-  <img src="/imgs/listMobile2.jpeg"width="500"/>
-  <img src="/imgs/listMobile3.jpeg"width="500"/>
+  <img src="/imgs/listMobile1.jpeg" width="450"/>
+  <img src="/imgs/listFilters.jpeg" width="450"/>
+  <img src="/imgs/listMobile2.jpeg"width="450"/>
+  <img src="/imgs/listMobile3.jpeg"width="450"/>
 </p>
+<p>Página dos Proffys favoritos</p>
+<p align="center">
+  <img src="/imgs/favorites.jpeg">
+</p>
+<br>
+<p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
+<br>
+<p>Por enquanto, é só!, sempre que tiver novas atualizações, este documento ira ser renovado!</p>
 
 
