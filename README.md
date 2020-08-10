@@ -62,7 +62,7 @@
 </p>
 <p>Página de listagem de professores</p>
 <p align="center">
-  <img src="/imgs/listMobile1.jpeg" width="150px"/>
+  <img src="/imgs/listMobile1.jpeg" width="150"/>
   <img src="/imgs/listMobile2.jpeg"/>
   <img src="/imgs/listMobile3.jpeg"/>
 </p>
