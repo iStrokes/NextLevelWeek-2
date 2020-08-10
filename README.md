@@ -5,22 +5,21 @@
 <p>o app conta com uma versão <strong>WEB</strong> e uma versão <strong>MOBILE</strong></p>
 <p> <strong>Para desenvolver a versão web foi usada as seguintes tecnologias:</strong></p>
 <ul> 
-  <li><strong>ReactJS
-  <li>Typescript
-  <li>Node
+  <li><strong>ReactJS</li>
+  <li>Typescript</li>
+  <li>Node</li>
 </ul>
 <P>E para desenvolver a versão mobile foi utilizada as seguintes tecnologias:</p>
 <ul>
-  <li>React-native
-  <li>Typescript
-  <li>Expo</strong>
-</ul>
+  <li>React-native</li>
+  <li>Typescript</li>
+  <li>Expo</li>
 <p>Para o servidor/api foi utilizado</p> 
 <ul>
-  <li>NodeJS
-  <li>SQLite3
-  <li>Axios
-  <li>Knex
+  <li>NodeJS</li>
+  <li>SQLite3</li>
+  <li>Axios</li>
+  <li>Knex</strong></li>
 </ul>
 <p> E como gerenciador de pacotes foi utilizado o <code>YARN</code>
 <p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
