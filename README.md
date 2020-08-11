@@ -26,7 +26,7 @@
 <p align="center"><Strong>----------------------------------------------------------------------------------------------------</strong></p>
 <h3 align="center">Se você quiser testar o app, deverá seguir as seguintes etapas</h3>
 <p>Primeiramente faça o clone do repósitorio com o seguinte comando em seu terminal:</p>
-<code align="center">git clone https://github.com/iStrokes/NWL2</code>
+<code align="center">git clone https://github.com/iStrokes/NextLevelWeek-2</code>
 <br>
 <br>
 <p>Após isso, abra o diretorio em seu terminal, para baixar todas as depêndencias, execute o comando:</p>
